@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+[English version](/en/) \| Portugues
+
 ## A jornada de modernizacao do HCL Domino
 
 Depois de mais de duas decadas construindo solucoes empresariais sobre a plataforma Lotus Notes/Domino, chegou o momento de dar o proximo passo: modernizar sem abandonar o que funciona.

@@ -16,5 +16,10 @@ permalink: /:year/:month/:day/:title/
 author:
   name: Marcelo Castro
 
+# Navigation header links
+header_pages:
+  - about.md
+  - en.md
+
 # Show excerpts on the home page
 show_excerpts: true
