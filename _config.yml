@@ -1,0 +1,20 @@
+title: "Blog do mmtcastro"
+description: "Meu blog pessoal"
+url: "https://mmtcastro.github.io"
+baseurl: ""
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalink style
+permalink: /:year/:month/:day/:title/
+
+# Author info
+author:
+  name: mmtcastro
+
+# Show excerpts on the home page
+show_excerpts: true
