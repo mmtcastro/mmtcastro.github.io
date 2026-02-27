@@ -20,6 +20,7 @@ author:
 header_pages:
   - about.md
   - en.md
+  - about-en.md
 
 # Show excerpts on the home page
 show_excerpts: true
