@@ -1,5 +1,5 @@
-title: "Blog do mmtcastro"
-description: "Meu blog pessoal"
+title: "Domino to Modern Java"
+description: "Descobertas e aprendizados na jornada de modernizacao de aplicacoes HCL Domino com Spring Boot, Vaadin e Domino REST API"
 url: "https://mmtcastro.github.io"
 baseurl: ""
 
@@ -14,7 +14,7 @@ permalink: /:year/:month/:day/:title/
 
 # Author info
 author:
-  name: mmtcastro
+  name: Marcelo Castro
 
 # Show excerpts on the home page
 show_excerpts: true
