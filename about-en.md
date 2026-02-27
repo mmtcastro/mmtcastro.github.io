@@ -4,6 +4,8 @@ title: About
 permalink: /about-en/
 ---
 
+English \| [Versao em portugues](/about/)
+
 ## About this blog
 
 This blog was born from the need to document and share the lessons learned from a real-world project to modernize enterprise applications built on **HCL Domino/Notes**.

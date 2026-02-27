@@ -4,6 +4,8 @@ title: Sobre
 permalink: /about/
 ---
 
+[English version](/about-en/) \| Portugues
+
 ## Sobre este blog
 
 Este blog nasceu da necessidade de documentar e compartilhar os aprendizados de um projeto real de modernizacao de aplicacoes corporativas construidas sobre **HCL Domino/Notes**.
