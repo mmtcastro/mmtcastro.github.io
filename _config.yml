@@ -24,8 +24,8 @@ header_pages:
   - en.md
   - about-en.md
 
-# Google Analytics 4
-google_analytics: G-VTQ7YV86NZ
+# Google Analytics 4 - tag injetada via _includes/custom-head.html
+# (nao usar google_analytics aqui pois Minima gera analytics.js antigo, incompativel com GA4)
 
 # Show excerpts on the home page
 show_excerpts: true
