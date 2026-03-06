@@ -22,5 +22,8 @@ header_pages:
   - en.md
   - about-en.md
 
+# Google Analytics 4
+google_analytics: G-VTQ7YV86NZ
+
 # Show excerpts on the home page
 show_excerpts: true
