@@ -18,6 +18,8 @@ author:
 
 # Navigation header links
 header_pages:
+  - indice.md
+  - index-en.md
   - about.md
   - en.md
   - about-en.md
