@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-[English version](/en/) \| Portugues
+[English version](/en/) \| Portugues \| [Indice por Tema](/indice/) \| [Linha do Tempo](/timeline/)
 
 ## A jornada de modernizacao do HCL Domino
 

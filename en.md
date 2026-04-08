@@ -4,7 +4,7 @@ title: English
 permalink: /en/
 ---
 
-English \| [Versao em portugues](/)
+English \| [Versao em portugues](/) \| [Index by Topic](/index-en/) \| [Timeline](/timeline-en/)
 
 ## The journey of modernizing HCL Domino
 
