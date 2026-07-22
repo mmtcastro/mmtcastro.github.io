@@ -2,7 +2,7 @@
 layout: post
 title: "Um servidor MCP sobre um ERP Domino de 25 anos"
 date: 2026-07-22
-categories: [domino, drapi, java, spring, spring-ai, mcp, ai, architecture]
+categories: [domino, drapi, java, spring, spring-ai, mcp, ai, architecture, claude-code]
 ---
 
 Tem um ERP rodando em Lotus Notes/Domino há 25 anos. Ele atravessou versões, servidores, gerações de tecnologia — e continua sendo o coração operacional de um negócio real. Na semana passada, um agente de IA perguntou a esse sistema, em linguagem natural, sobre clientes, pedidos e histórico de dados. E recebeu resposta. Nenhuma linha do legado foi alterada para isso acontecer. A ponte inteira foi construída do lado de fora, sobre a Domino REST API (antigo Project KEEP), com um servidor MCP em Spring Boot.

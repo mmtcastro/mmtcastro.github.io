@@ -2,7 +2,7 @@
 layout: post
 title: "Giving AI agents eyes into a 25-year-old Domino ERP — an MCP server over the Domino REST API"
 date: 2026-07-22
-categories: [domino, drapi, java, spring, spring-ai, mcp, ai, architecture]
+categories: [domino, drapi, java, spring, spring-ai, mcp, ai, architecture, claude-code]
 ---
 
 There is an ERP that has been running on Lotus Notes/Domino for 25 years. It has survived version upgrades, server moves, and several generations of technology — and it is still the operational heart of a real business. Last week, an AI agent asked that system questions in plain natural language — about customers, orders, data history — and got answers. Not a single line of the legacy system was changed to make that happen. The entire bridge was built on the outside, on top of the Domino REST API (formerly Project KEEP), as an MCP server written in Spring Boot.
