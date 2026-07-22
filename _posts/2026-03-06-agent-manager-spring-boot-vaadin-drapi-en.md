@@ -73,7 +73,7 @@ public class AgentMetadata extends AbstractModelDoc {
 }
 ```
 
-In Domino, this maps to the `Agent` Form in the `sistema.nsf` database.
+In Domino, this maps to the `Agent` Form in a dedicated NSF database for agent management.
 
 ## Service with headless support
 

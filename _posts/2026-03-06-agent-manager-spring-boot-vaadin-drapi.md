@@ -73,7 +73,7 @@ public class AgentMetadata extends AbstractModelDoc {
 }
 ```
 
-No Domino, isso corresponde ao Form `Agent` na base `sistema.nsf`.
+No Domino, isso corresponde ao Form `Agent` em uma base NSF dedicada ao gerenciamento de agentes.
 
 ## Service com suporte headless
 
